@@ -1030,7 +1030,7 @@ h4 {
         width: 180px;
         height: 320px;
     }
-    img{
+    .portfolio-thumb{
         max-width: 70%;
     }
 }
@@ -1040,7 +1040,7 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-    img{
+    .portfolio-thumb{
         width: 70%;
     }
 }
