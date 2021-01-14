@@ -1437,7 +1437,7 @@ img {
 .thumbnail a>img,
 .thumbnail>img {
     display: block;
-    width: 70%;
+    max-width: 100%;
     height: auto;
     margin: auto;
 }
