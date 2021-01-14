@@ -681,8 +681,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
-    margin: auto auto auto auto;
+    margin: auto;
 }
 
 .h1 {
@@ -932,8 +931,6 @@ h4 {
     }
     .nav > li {
         margin-top: 0;
-        border-bottom: 1px solid rgba(0, 0, 0, .1);
-        background: rgba(0, 0, 0, .05);
         text-align: left;
         padding-left: 15px;
         width: 100%;
