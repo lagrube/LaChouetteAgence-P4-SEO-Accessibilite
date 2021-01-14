@@ -1040,6 +1040,9 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    img{
+        width: 70%;
+    }
 }
 
 @media (max-width: 767px) {
