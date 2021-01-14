@@ -709,6 +709,13 @@ h2 {
     line-height: 1.4em;
 }
 
+.bold{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #333333!important;
+}
+
 h3 {
     font-size: 15px;
     text-transform: uppercase;
@@ -775,11 +782,11 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #CA4C12;
     color: #FFFFFF!important;
 }
 
