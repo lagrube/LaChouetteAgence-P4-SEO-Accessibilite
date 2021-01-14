@@ -1039,8 +1039,14 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-    .portfolio-thumb{
+    .sm-6{
         width: 70%;
+    }
+    .bg-presentation {
+        background-image: url("img/image-de-presentation-responsive.jpg");
+    }
+    .bg-banniere {
+        background-image: url("img/la-chouette-agence-banniere-responsive.jpg");
     }
 }
 
