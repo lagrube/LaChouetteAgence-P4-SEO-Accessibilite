@@ -4,7 +4,7 @@ _`Début de formation le 14/10/2020`_
 
 ## Auteur
 
-👤 &nbsp; **Guillaume GRUBER ** lagrube1@gmail.com
+👤 &nbsp; **Guillaume GRUBER** lagrube1@gmail.com
 
 ***
 ## 📎 Projet 4 - Optimisez le site web existant "La chouette agence"
