@@ -5,9 +5,6 @@ _`Début de formation le 14/10/2020`_
 
 👤 **Guillaume GRUBER** [🇫🇷 Contactez moi 🇬🇧](<lagrube1@gmail.com>) 
 
-* Github:  [@Thierry Laval](https://github.com/thierry-laval)
-* LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
-
 ***
 ## 📎Projet 3 - Création du site Ohmyfood! Paris
 ***
