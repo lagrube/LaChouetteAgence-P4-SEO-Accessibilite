@@ -3,7 +3,7 @@ _`Début de formation le 14/10/2020`_
 
 ### Auteur
 
-👤 **Guillaume GRUBER** : [lagrube1@gmail.com]
+👤 **Guillaume GRUBER** : lagrube1@gmail.com
 
 ***
 ## 📎Projet 3 - Création du site Ohmyfood! Paris
