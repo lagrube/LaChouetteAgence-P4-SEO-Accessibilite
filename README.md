@@ -8,7 +8,7 @@ _`Début de formation le 14/10/2020`_
 ***
 ## 📎Projet 3 - Création du site Ohmyfood! Paris
 ***
-### ![left 50%](images/icons8.png) Construire un site pour pouvoir afficher les différents menus
+### Construire un site pour pouvoir afficher les différents menus
 Site : [Hébergé sur GitHub](https://github.com/lagrube/Projet-SCSS-OhMyFood/ "Cliquez pour voir le site")
 
 Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/projects/637/assignment/ "Cliquez pour voir le projet")
