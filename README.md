@@ -1,16 +1,15 @@
-# ![left 100%](images/Logo_OpenClassrooms.png) OpenClassrooms-Développeur Web
-_`Début de formation le 20/04/2020`_
+# ![left 100%](https://github.com/lagrube/Archives/blob/main/archives-master/images/Logo_OpenClassrooms.png) OpenClassrooms-Développeur Web
+_`Début de formation le 14/10/2020`_
 
 ### Auteur
 
-👤 **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>) 
+👤 **Guillaume GRUBER** [🇫🇷 Contactez moi 🇬🇧](<lagrube1@gmail.com>) 
 
 * Github:  [@Thierry Laval](https://github.com/thierry-laval)
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
 
 ***
 ## 📎Projet 3 - Création du site Ohmyfood! Paris
-![left 100%](https://github.com/lagrube/Archives/blob/main/archives-master/images/Logo_OpenClassrooms.png)
 ***
 ### ![left 50%](images/icons8.png) Construire un site pour pouvoir afficher les différents menus
 Site : [Hébergé sur GitHub](https://github.com/lagrube/Projet-SCSS-OhMyFood/ "Cliquez pour voir le site")
@@ -40,4 +39,3 @@ Compétences évaluées:
 
 [Validation de performance](https://gtmetrix.com/reports/thierry-laval.github.io/O7xm6Kta)
 
-![left 100%](./images/bande.png)
