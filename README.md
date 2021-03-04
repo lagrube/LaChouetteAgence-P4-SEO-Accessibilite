@@ -11,7 +11,7 @@ _`Début de formation le 14/10/2020`_
 ### Construire un site pour pouvoir afficher les différents menus
 Site : [Hébergé sur GitHub](https://github.com/lagrube/Projet-SCSS-OhMyFood/ "Cliquez pour voir le site")
 
-Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/projects/637/assignment/ "Cliquez pour voir le projet")
+Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/paths/185/projects/637/assignment "Cliquez pour voir le projet")
 
 #### Dynamisez une page web avec des animations CSS
 Compétences évaluées:
@@ -24,15 +24,6 @@ Compétences évaluées:
 
 ### 🔨 Utilisé dans ce projet
 
-[Maquettes d'Ohmyfood](./Briefing_OpenClassrooms/Maquettes)
+Maquettes d'Ohmyfood
 
-### 🚦Les validations en ligne
-
-[Validation html en ligne](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F)
-
-[Validation css en ligne](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
-
-[Validation mobile en ligne](https://search.google.com/test/mobile-friendly?id=23VRq2XBd9NqVW4rDLscGA)
-
-[Validation de performance](https://gtmetrix.com/reports/thierry-laval.github.io/O7xm6Kta)
 
